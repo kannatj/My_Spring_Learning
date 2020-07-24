@@ -1,2 +1,5 @@
 # My_Spring_Learning
-This rope have spring learning codes.
+This repo have spring basic concepts implementations
+
+
+Keep learning :sunglasses: Love coding :heart:
