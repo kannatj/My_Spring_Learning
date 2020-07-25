@@ -21,14 +21,15 @@ Keep learning :sunglasses: Love coding :heart:
 
 
 Implementation steps:
-1. Download the source code.
 <br/>
-2. Import into eclipse.
-<br/>
-3. Cross verify dependency version in pom.xml.
-<br/>
-4. Create table in your DB and cross check DB connectivity details in dispatcher-servlet.xml
-<br/>
-5. Start the server (ex : Tomcat).
-<br/>
-6. Use any browser to view the application in action.
+       1. Download the source code.
+       <br/>
+       2. Import into eclipse.
+       <br/>
+       3. Cross verify dependency version in pom.xml.
+       <br/>
+       4. Create table in your DB and cross check DB connectivity details in dispatcher-servlet.xml
+       <br/>
+       5. Start the server (ex : Tomcat).
+       <br/>
+       6. Use any browser to view the application in action.
